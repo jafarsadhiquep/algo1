@@ -15,5 +15,5 @@ def stockPrize(stockcode):
             latestPrice=data_array[index].split('"')[1]
             return latestPrice
 
-
-print(stockPrize("ZYDUSLIFE"))
+while 6 > 2 :
+    print(stockPrize("ZYDUSLIFE"))
